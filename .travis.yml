@@ -17,4 +17,4 @@ deploy:
     branch: main
   acess_key_id: $key-id
   secret_access_key:
-    secure: "\$key_val"
+    secure: "$key-val"
