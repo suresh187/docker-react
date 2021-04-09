@@ -15,5 +15,5 @@ deploy:
   bucket_path: "docker-react"
   on:
     branch: main
-  acess_key_id: $key-id
-  secret_access_key: $key-val
+  acess_key_id: $keyId
+  secret_access_key: $keyVal
